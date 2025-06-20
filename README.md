@@ -48,9 +48,20 @@ This was achieved by using a **10-transistor architecture**, with logic construc
 
 
 ## 🖼️ Schematic Snapshots
-
 ### 🔧 Full Adder Circuit
-![Full Adder Schematic](docs/mtcmos_full_adder_circuit.png)
+![Full Adder Schematic](docs/full_adder_schematic.png)
+
+### 🔧 Inverter Circuit
+![MTCMOS Inverter Schematic](docs/inverter_schematic.png)
+
+### 🔧 Mux Circuit
+![Mux Schematic](docs/mux_schematic.png)
+
+### 🔧 Xor Circuit
+![Xor Schematic](docs/xor_schematic.png)
+
+### 🔧 MTCMOS Full Adder Circuit
+![MTCMOS Full Adder Schematic](docs/mtcmos_full_adder_circuit.png)
 
 ### 📈 Simulation Output
 ![Simulation Output](docs/simulation_output.png)
